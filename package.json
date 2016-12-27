@@ -1,0 +1,29 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "- angular restful接口\r ## angular-route \r - 路由\r ## bootstrap\r ## express\r ## 初始化package.json\r ```\r npm init\r ```\r - 安装\r ```\r npm install angular angular-resource angular-route express bootstrap body-parser --save\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "angular-resource": "^1.6.1",
+    "angular-route": "^1.6.1",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhufengzhufeng/bookstore.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhufengzhufeng/bookstore/issues"
+  },
+  "homepage": "https://github.com/zhufengzhufeng/bookstore#readme"
+}
