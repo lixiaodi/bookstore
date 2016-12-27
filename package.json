@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhufengzhufeng/bookstore.git"
+    "url": "git+https://github.com/lixiaodi/bookstore.git"
   },
   "bugs": {
-    "url": "https://github.com/zhufengzhufeng/bookstore/issues"
+    "url": "https://github.com/lixiaodi/bookstore/issues"
   },
-  "homepage": "https://github.com/zhufengzhufeng/bookstore#readme"
+  "homepage": "https://github.com/lixiaodi/bookstore#readme"
 }
